@@ -1,0 +1,3 @@
+Login for Ubuntu Server
+
+ssh -i "Login.pem" ubuntu@52.15.192.96
